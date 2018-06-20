@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Shizuka's file
+=======
 Nobita's README
+>>>>>>> master
